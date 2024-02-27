@@ -8,3 +8,7 @@ ___
 aura -S ngspice yosys iverilog gtkwave docker containerd git python make
 aura -A riscv-gnu-toolchain-bin magic opensta-git
 ```
+
+### Table of Contents
+
+- [RISC-V Instructions](Instructions.md)
