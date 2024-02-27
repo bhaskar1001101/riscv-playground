@@ -12,3 +12,4 @@ aura -A riscv-gnu-toolchain-bin magic opensta-git
 ### Table of Contents
 
 - [RISC-V Instructions](Instructions.md)
+- [RISC-V Cross Compilation for C](Cross-Compilation.md)
